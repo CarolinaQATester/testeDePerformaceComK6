@@ -1,0 +1,1 @@
+# testeDePerformaceComK6
